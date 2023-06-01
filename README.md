@@ -46,18 +46,19 @@ The app.py file provides some configurable options:
     pitch: The desired pitch correction value (default: 8, adjust as needed for the GLaDOS-like effect)
 
 Feel free to modify these options to achieve your desired voice characteristics.
+
 ## License
 
 This project is licensed under the MIT License.
 ## Acknowledgments
 
-    The project utilizes the gtts library for text-to-speech, which is built on the Google Translate text-to-speech service.
-    Pitch correction is performed using the librosa and psola libraries.
-    Thanks to [Germancoding] (https://github.com/GermanCoding) for fixing the Flask bug and [janprzy] (https://github.com/janprzy) for helping to install the dependencies on Linux.
-    Also a big thanks to [Jan Wilczek] (https://github.com/JanWilczek) where I got the idea how to get the autotune effect. You should read the [blog entry or watch the video] (https://thewolfsound.com/how-to-auto-tune-your-voice-with-python/).
+The project utilizes the gtts library for text-to-speech, which is built on the Google Translate text-to-speech service.
+Pitch correction is performed using the librosa and psola libraries.
+Thanks to [Germancoding](https://github.com/GermanCoding) for fixing the Flask bug and [janprzy](https://github.com/janprzy) for helping to install the dependencies on Linux.
+Also a big thanks to [Jan Wilczek](https://github.com/JanWilczek) where I got the idea how to get the autotune effect. You should read the [blog entry or watch the video](https://thewolfsound.com/how-to-auto-tune-your-voice-with-python/).
 
 ## Disclaimer    
-   Disclaimer: This project is not affiliated, endorsed, or sponsored by Valve Corporation. The character GLaDOS mentioned here is a fictional character from the video game "Portal," developed and owned by Valve Corporation. Any references made to GLaDOS are purely for illustrative and entertainment purposes. The use of GLaDOS' voice or any related materials is not intended to infringe upon Valve Corporation's intellectual property rights. This project is created by Piccar and is an independent endeavor.
+Disclaimer: This project is not affiliated, endorsed, or sponsored by Valve Corporation. The character GLaDOS mentioned here is a fictional character from the video game "Portal," developed and owned by Valve Corporation. Any references made to GLaDOS are purely for illustrative and entertainment purposes. The use of GLaDOS' voice or any related materials is not intended to infringe upon Valve Corporation's intellectual property rights. This project is created by Piccar and is an independent endeavor.
 
 
 
